@@ -14,7 +14,7 @@ import bookstore.entities.Book;
 
 /**
  *  contains informations about books in store, keeps updating upon adding and removing books.
- *  contructor is private, sigleton pattern is used to obtain an instance of this class.
+ *  contructor is private, singleton pattern is used to obtain an instance of this class.
  * @author Hasan
  */
 public class Store {
